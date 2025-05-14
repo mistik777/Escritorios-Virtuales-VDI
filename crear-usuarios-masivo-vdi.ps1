@@ -12,7 +12,7 @@ function Mostrar-Menu {
     Write-Host "`n===== GESTIÓN DE USUARIOS EN CAMPUSVDI ====="
     Write-Host "1 - Establecer variables (categoría, grupos, email)"
     Write-Host "2 - Crear ALUMN@S (user)"
-    Write-Host "4 - Salir"
+    Write-Host "0 - Salir"
     Write-Host "`n(Recuerda: los datos no se guardan permanentemente)"
     Write-Host "==============================================`n"
 }
@@ -139,7 +139,7 @@ do {
                 Write-Host "❌ Grupo no válido." -ForegroundColor Red
             }
         }
-        "4" {
+        "0" {
             Write-Host "`n👋 Saliendo del programa. ¡Hasta pronto!"
         }
         default {
@@ -147,8 +147,8 @@ do {
         }
     }
 
-    if ($opcion -ne "4") {
+    if ($opcion -ne "0") {
         Pause
     }
 
-} while ($opcion -ne "4")
+} while ($opcion -ne "0")
