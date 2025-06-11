@@ -1,11 +1,13 @@
 # Práctica particiones con GParted
 
 <aside>
+  
 👉🏽 Esta práctica consiste en realizar particiones a un disco duro en un sistema operativo ya instalado.
 
 </aside>
 
 <aside>
+  
 📚 Para ello deberás de:
 
 - [ ]  Configurar el Escritorio Virtual
