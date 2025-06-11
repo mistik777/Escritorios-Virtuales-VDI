@@ -18,6 +18,7 @@
 Supongamos que queremos realizar prácticas con discos y particiones. Para ello podemos partir de cualquier plantilla ya existente y crearnos un escritorio. Procederemos a arrancarlo con una ISO ‘live’, nosotros vamos a utilizar GPARTED. [https://gparted.org/](https://gparted.org/)
 
 <aside>
+  
 ℹ️ **Recuerda**: siempre utiliza **páginas oficiale**s y **software original**
 
 </aside>
@@ -31,6 +32,7 @@ Con esta práctica podremos trabajar:
 • **RAID**: Podemos crear particiones en el disco y crear RAID encima.
 
 <aside>
+  
 🧑🏽‍🏫 PROFE!! Recuerda que puedes **convertirlo en plantilla** para compartirlo con el alumnado.
 
 O si quieres, puedes **convertirlo en despliegue** para tener control sobre los Escritorios.
