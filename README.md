@@ -12,6 +12,6 @@ En la siguiente sección encontrarás información variada sobre:
 
 # Prácticas campusvdi
 
-[\[Practica-Managers-Crear-grupos-usuarios\Practica Manager Crear Grupos y Usuarios.md\]](https://github.com/mistik777/Escritorios-Virtuales-campusVDI/blob/main/Practica-Managers-Crear-grupos-usuarios/Practica%20Manager%20Crear%20Grupos%20y%20Usuarios.md)
+https://github.com/mistik777/Escritorios-Virtuales-campusVDI/blob/main/Practica-Managers-Crear-grupos-usuarios/Practica%20Manager%20Crear%20Grupos%20y%20Usuarios.md
 
 # Esquema general funcionamiento campusvdi
