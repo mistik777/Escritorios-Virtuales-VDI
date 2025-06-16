@@ -72,7 +72,9 @@ Solución para reducir/reutilizar/controlar la gestión de equipos en aulas de c
 
 ## Lista de reproducción Escritorios Virtuales VDI - campusvdi
 
-Link canal: https://www.youtube.com/playlist?list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w
+Link canal: 
+
+[![Watch the video] (https://www.youtube.com/playlist?list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w)
 
 
 [Url acceso, Usuario, Contraseñ, Cambiar contraseña](https://www.youtube.com/watch?v=7q_JSsL77D8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=1&pp=iAQB)
