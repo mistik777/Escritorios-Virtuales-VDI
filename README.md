@@ -16,4 +16,5 @@ En la siguiente sección encontrarás información variada sobre:
 
 # Esquema general funcionamiento campusvdi
 
-ESQUEMA-Escritorios-Plantillas-Despliegues-EscritoriosVirtuales_VDI.jpg
+
+![alt text](ESQUEMA-Escritorios-Plantillas-Despliegues-EscritoriosVirtuales_VDI.jpg)
