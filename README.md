@@ -54,3 +54,65 @@ Si se borra una plantilla o escritorio que dependa de otro... se borrará toda l
 *Ejemplo: si borro El Escritorio Virtual Profe 1 V.1 ---> se borrarán todas las Plantillas y Despliegues que dependen de el*
 
 Solución actual: **OCULTAR** dicho escritorio o plantilla y renombrar como "No usar"
+
+
+# Videos Youtube CampusVDI
+
+Los Escritorios Virtuales VDI (Virtual Desktop Infraestructure) son una solución para centros educativos sin necesidad de invertir en equipos muy potentes o conocimientos muy avanzados.
+
+Crea Escritorios Virtuales para tu alumnado con diferentes sistemas operativos (windows, linux...), crea casos de uso (clases, prácticas, exámentes...) de una manera FÁCIL y RÁPIDA.
+
+Podríamos decir que son equipos online, “en la nube”, con los que se puede trabajar en cualquier lugar (casa o instituto) con una conexión a internet.
+
+Solución para reducir/reutilizar/controlar la gestión de equipos en aulas de cualquier centro educativo.
+
+"Accedo a una web y ya tengo mi ordenador y el de mi alumnado que además puedo controlar."
+
+"Empiezan a trabajar en el instituto y terminar de hacerlo en casa... esta genial!"
+
+## Lista de reproducción Escritorios Virtuales VDI - campusvdi
+
+Link canal: https://www.youtube.com/playlist?list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w
+
+
+[Url acceso, Usuario, Contraseñ, Cambiar contraseña](https://www.youtube.com/watch?v=7q_JSsL77D8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=1&pp=iAQB)
+
+
+[Partes de los Escritorios Virtuales](https://www.youtube.com/watch?v=U-Zhb6I-H70&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=2&pp=iAQB)
+
+
+[Visores (SPICE, VNC, RDP)](https://www.youtube.com/watch?v=-f94h0S-XH8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=3&pp=iAQB)
+
+
+[Crear, Editar, Configurar Escritorios](https://www.youtube.com/watch?v=bfzO558LH6Q&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=4&pp=iAQB)
+
+
+[Plantillas: crear, modificar, eliminar](https://www.youtube.com/watch?v=3TE8l_bJjW8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=5&pp=iAQB)
+
+
+[Medios: isos, imágenes de CD/DVD](https://www.youtube.com/watch?v=0aeA0gQ8XmI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=6&pp=iAQB)
+
+
+[Despliegues: ver y gestionar varios escritorios a la vez](https://www.youtube.com/watch?v=usRf2ON66BI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=7&pp=iAQB)
+
+
+[Rerservas de GPU](https://www.youtube.com/watch?v=a8I_IGN4SfI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=8&pp=iAQB)
+
+
+[Administración : Crear y modificar usuarios y grupos](https://www.youtube.com/watch?v=SX3N1nD2W90&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=9&pp=iAQB)
+
+
+[Tipos de Redes (default, Wireguard VPN, Personales, Privadas...)](https://www.youtube.com/watch?v=WWstjR7jpf8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=10&pp=iAQB)
+
+
+[Instalación y configuración Cliente-Servidor](https://www.youtube.com/watch?v=-bwfzkUNOnw&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=11&pp=iAQB)
+
+
+[Cambiar claves de usuarios de manera masiva](https://www.youtube.com/watch?v=cYGlcXVsX7I&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=12&pp=iAQB)
+
+
+[Ejemplo Instalar un SO: Windows Server 2019](https://www.youtube.com/watch?v=qGb60nOMGSs&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=13&pp=iAQB)
+
+
+
+[Ejemplos de algunos casos de uso](https://www.youtube.com/watch?v=0FzcIOGktlA&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=14&t=269s&pp=iAQB)
