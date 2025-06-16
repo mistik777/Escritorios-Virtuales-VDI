@@ -8,10 +8,11 @@ Esta iniciativa está impulsada por el Ministerio de Educación y Formación Pro
 
 De momento está disponible para 18 centros educativos así como para centros de formación (CATEDU) y de innovación (CIFPA) y se irá ampliando de manera progresiva según crezca la iniciativa y se pueda abrir a más centros.
 
-URL Acceso → [www.campusvdi.es] (https://www.campusvdi.es)
+URL Acceso → [www.campusvdi.es]
 
+El acceso directo a la categoría / centro puede ser configurado de esta forma -> https://campusvdi.es/login/form/NOMBRE_CATEGORIA
 
-El acceso directo a la categoría / centro puede ser configurado de esta forma -> https://campusvdi.es/login/ateca_XXXX siendo XXX las 4 iniciales que corresponden al nombre / siglas del centro educativo. Ver listado en el desplegable situado en https://campusvdi.es/login
+Ejemplo para acceder al centro CAMPUS_DIGITAL https://www.campusvdi.es/login/form/CAMPUS_DIGITAL
 
 # Crear Centros nuevos en campusvdi
 
@@ -22,13 +23,13 @@ Inicialmente se crean los siguientes elementos:
 * 20 estudiantes (user)
 * 2 grupos: grupo01, grupo02
 
-Todos los usuarios estan en el grupo Main. Los managers deberán de gestionar los grupos.
+Todos los usuarios estan en el grupo Main. **Los managers deberán de gestionar los grupos.**
 
 ---
 
 ## Acceder a la administración con rol Admin
 
-[https://www.campusvdi.es/login/form/default](https://www.campusvdi.es/login/form/default)
+Necesitas un rol de **Administrador**``
 
 Acceder a la administración > Users > Management
 
