@@ -155,6 +155,8 @@ En el siguiente paso, crearemos las redes de ese centro.
 
 ++Ver Crear-Redes-en-campusvdi++
 
+CREAR REDES en campusvdi.md
+
 **Resumen:** 3 Redes por centro tipo OpenVSwitch, model virtio
 
 ![image.png](image%2010.png)
