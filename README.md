@@ -45,7 +45,7 @@ En el siguiente Esquema se explica cómo es el funcionamiento general de los Esc
    1. Compartir con el alumnado
    2. Convertir en Despliegue al alumnado
 
-** ¡¡ CUIDADO AL BORRAR Escritorios / Plantillas!! **
+**¡¡ CUIDADO AL BORRAR Escritorios / Plantillas!!**
 
 Si se borra una plantilla o escritorio que dependa de otro... se borrará toda la rama!! Revisar en el esquema el icono de alerta ⚠️
 
