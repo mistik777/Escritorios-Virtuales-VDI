@@ -1,6 +1,14 @@
-# CREAR Centros nuevos en campusvdi
+# Introducción
+El servicio de escritorios virtuales basado en el programa IsardVDI es un proyecto que está dando servicio a centros educativos de formación profesional en la comunidad autónoma de Aragón.
+El proyecto se encuentra enmarcado dentro de la iniciativa de conversión de espacios en aulas de tecnología aplicada (ATECA), donde los centros elegidos han colaborado para dotar a esta infraestructura de hardware y software profesional que pueda contribuir a la transformación tecnológica de la FP de manera transversal, impactando en todas las familias profesionales y no solo en las de carácter más tecnológico.
+Esta iniciativa está impulsada por el Ministerio de Educación y Formación Profesional y financiada por la Unión Europea (fondos NextGenerationEU) e implantada en Aragón a través de la Dirección General de Innovación y Formación Profesional, actualmente a través del centro de formación profesional Campus Digital.
+De momento está disponible para 18 centros educativos así como para centros de formación (CATEDU) y de innovación (CIFPA) y se irá ampliando de manera progresiva según crezca la iniciativa y se pueda abrir a más centros. 
+URL Acceso → [www.campusvdi.es] (https://www.campusvdi.es)
+El acceso directo a la categoría / centro puede ser configurado de esta forma -> https://campusvdi.es/login/ateca_XXXX siendo XXX las 4 iniciales que corresponden al nombre / siglas del centro educativo. Ver listado en el desplegable situado en https://campusvdi.es/login 
 
-[CampusVDI.es.doc](CampusVDI.es.doc)
+
+
+# CREAR Centros nuevos en campusvdi
 
 Inicialmente se crean:
 1 manager (manager)
