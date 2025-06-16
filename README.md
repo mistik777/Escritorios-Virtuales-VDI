@@ -45,4 +45,10 @@ En el siguiente Esquema se explica cómo es el funcionamiento general de los Esc
    1. Compartir con el alumnado
    2. Convertir en Despliegue al alumnado
 
+**CUIDAD AL BORRAR*!!
+
+Si se borra una plantilla o escritorio que dependa de otro... se borrará toda la rama!! Revisar en el esquema el icono de alerta ⚠️
+
+*Ejemplo: si borro El Escritorio Virtual Profe 1 V.1 ---> se borrarán todas las Plantillas y Despliegues que dependen de el*
+
 ![alt text](ESQUEMA-Escritorios-Plantillas-Despliegues-EscritoriosVirtuales_VDI.jpg)
