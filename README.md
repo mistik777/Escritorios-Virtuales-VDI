@@ -1,6 +1,6 @@
 En la siguiente sección encontrarás información variada sobre:
 
-# Adminsitración campusvdi
+# :closed_lock_with_key: Adminsitración campusvdi
 
 [Instalar/actualizar Drivers NVIDIA campusvdi](https://github.com/mistik777/Escritorios-Virtuales-campusVDI/blob/main/Instalar-actualizar-Drivers-NVIDIA-campusvdi/Instalar%20Actualizar%20DRIVERS%20NVIDIA%20campusvdi.md)
 
@@ -10,13 +10,13 @@ En la siguiente sección encontrarás información variada sobre:
 
 [Actualizar plantillas campusvdi- cambio de vCPU, RAM, GPU](https://github.com/mistik777/Escritorios-Virtuales-campusVDI/blob/main/Actualizar-plantillas-CPU-RAM-GPU/Actualizar%20plantillas%20-%20cambio%20de%20vCPU%2C%20RAM%20y%20GPU.md)
 
-# Prácticas Managers campusvdi
+# :floppy_disk: Prácticas Managers campusvdi
 
 [Practica Managers - crear Grupos y usuarios](https://github.com/mistik777/Escritorios-Virtuales-campusVDI/blob/main/Practica-Managers-Crear-grupos-usuarios/Practica%20Manager%20Crear%20Grupos%20y%20Usuarios.md)
 
 [Práctica Managers - optimizar Linux y redimensión resolucion pantalla](https://github.com/mistik777/Escritorios-Virtuales-campusVDI/blob/main/Optimizar-linux-pantalla-redimiension/Optimizar%20Distribuciones%20Linux%20en%20Escritorios%20VDI%20%2Bredimension%20pantalla%20completa.md)
 
-# Prácticas Users campusvdi
+# :computer: Prácticas Users campusvdi
 
 [Práctica Compartir carpeta en red - APLIFISA](https://github.com/mistik777/Escritorios-Virtuales-campusVDI/blob/main/Practica-APLIFISA-compartir-carpeta-en-red/Carpeta%20compartida%20en%20red%20%2B%20APLIFISA%20-%20Windows%20181ae56fed2e8070b069cd950d96e5c0.md)
 
@@ -32,7 +32,7 @@ En la siguiente sección encontrarás información variada sobre:
 
 [Práctica PFSense Router](https://github.com/mistik777/Escritorios-Virtuales-campusVDI/blob/main/Practica%20PFSense%20Router/PRA%CC%81CTICA%20PfSense%20-router.md)
 
-# Esquema general funcionamiento campusvdi
+# :round_pushpin: Esquema general funcionamiento campusvdi
 
 En el siguiente Esquema se explica cómo es el funcionamiento general de los Escritorios, Plantillas, Despliegues...
 
@@ -56,7 +56,7 @@ Si se borra una plantilla o escritorio que dependa de otro... se borrará toda l
 Solución actual: **OCULTAR** dicho escritorio o plantilla y renombrar como "No usar"
 
 
-# Videos Youtube CampusVDI
+# :clapper: Videos Youtube CampusVDI
 
 Los Escritorios Virtuales VDI (Virtual Desktop Infraestructure) son una solución para centros educativos sin necesidad de invertir en equipos muy potentes o conocimientos muy avanzados.
 
@@ -72,48 +72,48 @@ Solución para reducir/reutilizar/controlar la gestión de equipos en aulas de c
 
 ## Lista de reproducción Escritorios Virtuales VDI - campusvdi
 
-Link canal: https://www.youtube.com/playlist?list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w
-
-:star:
-
-[Url acceso, Usuario, Contraseñ, Cambiar contraseña](https://www.youtube.com/watch?v=7q_JSsL77D8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=1&pp=iAQB)
-
-
-[Partes de los Escritorios Virtuales](https://www.youtube.com/watch?v=U-Zhb6I-H70&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=2&pp=iAQB)
-
-
-[Visores (SPICE, VNC, RDP)](https://www.youtube.com/watch?v=-f94h0S-XH8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=3&pp=iAQB)
-
-
-[Crear, Editar, Configurar Escritorios](https://www.youtube.com/watch?v=bfzO558LH6Q&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=4&pp=iAQB)
-
-
-[Plantillas: crear, modificar, eliminar](https://www.youtube.com/watch?v=3TE8l_bJjW8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=5&pp=iAQB)
-
-
-[Medios: isos, imágenes de CD/DVD](https://www.youtube.com/watch?v=0aeA0gQ8XmI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=6&pp=iAQB)
-
-
-[Despliegues: ver y gestionar varios escritorios a la vez](https://www.youtube.com/watch?v=usRf2ON66BI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=7&pp=iAQB)
-
-
-[Rerservas de GPU](https://www.youtube.com/watch?v=a8I_IGN4SfI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=8&pp=iAQB)
-
-
-[Administración : Crear y modificar usuarios y grupos](https://www.youtube.com/watch?v=SX3N1nD2W90&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=9&pp=iAQB)
-
-
-[Tipos de Redes (default, Wireguard VPN, Personales, Privadas...)](https://www.youtube.com/watch?v=WWstjR7jpf8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=10&pp=iAQB)
-
-
-[Instalación y configuración Cliente-Servidor](https://www.youtube.com/watch?v=-bwfzkUNOnw&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=11&pp=iAQB)
-
-
-[Cambiar claves de usuarios de manera masiva](https://www.youtube.com/watch?v=cYGlcXVsX7I&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=12&pp=iAQB)
-
-
-[Ejemplo Instalar un SO: Windows Server 2019](https://www.youtube.com/watch?v=qGb60nOMGSs&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=13&pp=iAQB)
+:star: Link canal Luis Solsona: https://www.youtube.com/playlist?list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w
 
 
 
-[Ejemplos de algunos casos de uso](https://www.youtube.com/watch?v=0FzcIOGktlA&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=14&t=269s&pp=iAQB)
+:arrow_forward: [Url acceso, Usuario, Contraseñ, Cambiar contraseña](https://www.youtube.com/watch?v=7q_JSsL77D8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=1&pp=iAQB)
+
+
+:arrow_forward: [Partes de los Escritorios Virtuales](https://www.youtube.com/watch?v=U-Zhb6I-H70&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=2&pp=iAQB)
+
+
+:arrow_forward: [Visores (SPICE, VNC, RDP)](https://www.youtube.com/watch?v=-f94h0S-XH8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=3&pp=iAQB)
+
+
+:arrow_forward: [Crear, Editar, Configurar Escritorios](https://www.youtube.com/watch?v=bfzO558LH6Q&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=4&pp=iAQB)
+
+
+:arrow_forward: [Plantillas: crear, modificar, eliminar](https://www.youtube.com/watch?v=3TE8l_bJjW8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=5&pp=iAQB)
+
+
+:arrow_forward: [Medios: isos, imágenes de CD/DVD](https://www.youtube.com/watch?v=0aeA0gQ8XmI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=6&pp=iAQB)
+
+
+:arrow_forward: [Despliegues: ver y gestionar varios escritorios a la vez](https://www.youtube.com/watch?v=usRf2ON66BI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=7&pp=iAQB)
+
+
+:arrow_forward: [Rerservas de GPU](https://www.youtube.com/watch?v=a8I_IGN4SfI&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=8&pp=iAQB)
+
+
+:arrow_forward: [Administración : Crear y modificar usuarios y grupos](https://www.youtube.com/watch?v=SX3N1nD2W90&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=9&pp=iAQB)
+
+
+:arrow_forward: [Tipos de Redes (default, Wireguard VPN, Personales, Privadas...)](https://www.youtube.com/watch?v=WWstjR7jpf8&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=10&pp=iAQB)
+
+
+:arrow_forward: [Instalación y configuración Cliente-Servidor](https://www.youtube.com/watch?v=-bwfzkUNOnw&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=11&pp=iAQB)
+
+
+:arrow_forward: [Cambiar claves de usuarios de manera masiva](https://www.youtube.com/watch?v=cYGlcXVsX7I&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=12&pp=iAQB)
+
+
+:arrow_forward: [Ejemplo Instalar un SO: Windows Server 2019](https://www.youtube.com/watch?v=qGb60nOMGSs&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=13&pp=iAQB)
+
+
+
+:arrow_forward: [Ejemplos de algunos casos de uso](https://www.youtube.com/watch?v=0FzcIOGktlA&list=PLCHVi94WUuMzimBXUnnANV1dd054afK_w&index=14&t=269s&pp=iAQB)
